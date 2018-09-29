@@ -1,0 +1,48 @@
+C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsServiceCSTest\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\lovel_000\Desktop\WindowsServiceCSTest\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsServiceCSTest\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsServiceCSTest\bin\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsServiceCSTest\bin\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsServiceCSTest\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\lovel_000\Desktop\WindowsServiceCSTest\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+C:\Users\lovel_000\Desktop\WindowsServiceCSTest\obj\x86\Debug\WindowsServiceSLA.csprojResolveAssemblyReference.cache
+E:\Windows Services\WindowsServiceFTP\bin\Debug\WindowsServiceCS.exe.config
+E:\Windows Services\WindowsServiceFTP\obj\x86\Debug\WindowsServiceCS.exe
+E:\Windows Services\WindowsServiceFTP\obj\x86\Debug\WindowsServiceCS.pdb
+E:\Windows Services\WindowsServiceFTP\bin\Debug\WindowsServiceCS.exe
+E:\Windows Services\WindowsServiceFTP\bin\Debug\WindowsServiceCS.pdb
+E:\Windows Services\WindowsServiceFTP\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+E:\Windows Services\WindowsServiceFTP\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+E:\Windows Services\WindowsServiceFTP\obj\x86\Debug\WindowsServiceSLA.csprojResolveAssemblyReference.cache
+E:\WindowsService\WindowsServiceFTP\bin\Debug\WindowsServiceCS.exe.config
+E:\WindowsService\WindowsServiceFTP\obj\x86\Debug\WindowsServiceCS.exe
+E:\WindowsService\WindowsServiceFTP\obj\x86\Debug\WindowsServiceCS.pdb
+E:\WindowsService\WindowsServiceFTP\bin\Debug\WindowsServiceCS.exe
+E:\WindowsService\WindowsServiceFTP\bin\Debug\WindowsServiceCS.pdb
+E:\WindowsService\WindowsServiceFTP\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+E:\WindowsService\WindowsServiceFTP\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+E:\WindowsService\WindowsServiceFTP\obj\x86\Debug\WindowsServiceSLA.csprojResolveAssemblyReference.cache
+C:\Users\Mugesh\Desktop\WindowsServiceFTPInvoiceLive\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\Mugesh\Desktop\WindowsServiceFTPInvoiceLive\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\Mugesh\Desktop\WindowsServiceFTPInvoiceLive\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\Mugesh\Desktop\WindowsServiceFTPInvoiceLive\bin\Debug\WindowsServiceCS.exe
+C:\Users\Mugesh\Desktop\WindowsServiceFTPInvoiceLive\bin\Debug\WindowsServiceCS.pdb
+C:\Users\Mugesh\Desktop\WindowsServiceFTPInvoiceLive\obj\x86\Debug\WindowsServiceSLA.csprojResolveAssemblyReference.cache
+C:\Users\Mugesh\Desktop\WindowsServiceFTPInvoiceLive\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\Mugesh\Desktop\WindowsServiceFTPInvoiceLive\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+D:\Watchnet Window Services\Test Services\Rma Invoice Test Service\bin\Debug\WindowsServiceCS.exe.config
+D:\Watchnet Window Services\Test Services\Rma Invoice Test Service\bin\Debug\WindowsServiceCS.exe
+D:\Watchnet Window Services\Test Services\Rma Invoice Test Service\bin\Debug\WindowsServiceCS.pdb
+D:\Watchnet Window Services\Test Services\Rma Invoice Test Service\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+D:\Watchnet Window Services\Test Services\Rma Invoice Test Service\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.cache
+D:\Watchnet Window Services\Test Services\Rma Invoice Test Service\obj\x86\Debug\WindowsServiceSLA.csproj.CoreCompileInputs.cache
+D:\Watchnet Window Services\Test Services\Rma Invoice Test Service\obj\x86\Debug\WindowsServiceCS.exe
+D:\Watchnet Window Services\Test Services\Rma Invoice Test Service\obj\x86\Debug\WindowsServiceCS.pdb
+D:\Watchnet Window Services\Test Services\Rma Invoice Test Service\obj\x86\Debug\WindowsServiceSLA.csprojResolveAssemblyReference.cache
